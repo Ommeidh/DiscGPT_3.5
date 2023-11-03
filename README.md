@@ -4,10 +4,10 @@ Instructions:
 	- Create a discord bot
 	- Obtain an API key from both Discord and OpenAI and replace the values in the .env file
 	- Install all necessary packages:
-		Python
-		Pip
-		Discord
-		OpenAI
+		Python,
+		Pip,
+		Discord,
+		OpenAI,
 		Dotenv
 	- Have your discord bot join a server
 	- Run the script DiscGPT.py in your terminal
