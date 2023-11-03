@@ -2,7 +2,7 @@
 Instructions: 
 	- Clone the repo
 	- Create a discord bot
-	- Obtain an API key from both Discord and OpenAI
+	- Obtain an API key from both Discord and OpenAI and replace the values in the .env file
 	- Install all nexessary packages:
 		Python
 		Pip
